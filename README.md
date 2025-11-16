@@ -1,4 +1,6 @@
 <div align="center">
+  <a href="https://github.com/Joao-Mendes-1">![Joao-Mendes-1 stats](https://github-readme-stats.vercel.app/api?username=Joao-Mende-1&show_icons=true&theme=tokyonight)</a>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joao-Mendes-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
